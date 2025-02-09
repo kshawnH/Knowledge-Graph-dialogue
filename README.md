@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Knowledge Graph3
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -55,3 +56,7 @@ pnpm test:e2e
 ```sh
 pnpm lint
 ```
+=======
+# Knowledge-Graph-dialogue
+A Vue.js-based knowledge graph visualization tool using D3.js for interactive graph representation and exploration
+>>>>>>> origin/master
